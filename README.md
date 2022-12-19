@@ -53,9 +53,3 @@
   4) Performing unit tests on projects</i><br></p>
 <p>The <b>artefact</b> now has more students, albums and songs. It also has <b>error catching</b> using the <b>try-catch</b> error capturing method in Java. These <b>enhancements</b> meet the <b>objectives</b> as set out and have demonstrated the same.</p>
 <p>The process <b>taught me</b> the importance of <b>good documentation</b> that can enable fellow <b>collaborators</b> follow along. I also learnt the importance of <b>well named</b> variables, classes and functions that cannot be mistaken or create confusion when being used. I also learnt that <b>well commented code</b> enables better collaboration when working in a <b>team project</b>. There was a challenge in performing inline <b>stepwise error trapping</b> during runtime but I finally learnt how it’s done.</p>
-<h2>Review comments</h2>
-<p>
-Update:<br>
-I was not asking you to get the group together. The first submitted zip file had all the original files. This one has the new updated Java files and the artifact was perfect for a choice to work with. Now I need all the screen shots with the date in March and not before the course began as the objective is to complete the enhancements as part of this course and not use previous work to fulfil the enhancement portion. Make sure you narrative shows all the work done for enhancements was after your enhancement plan was approved.</p>
-<p>Hi Ritesh,<br>
-The only files I see in the zip folder are from 11/2021. Please resubmit to provide the zip file with all the Java files you updated so I can assess and provide feedback.</p>
